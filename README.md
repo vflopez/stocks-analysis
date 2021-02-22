@@ -1,2 +1,2 @@
-# stocks-analysis
+# stock-analysis
 Stock Analysis Test Repository
